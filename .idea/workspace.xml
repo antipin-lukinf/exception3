@@ -4,17 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8da26cbf-a439-4204-a4d9-8301786d5264" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dz3_Exeption.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ParsData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WriteFile.java" afterDir="false" />
+    <list default="true" id="8da26cbf-a439-4204-a4d9-8301786d5264" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/src/DateException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InputData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SexException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ParsData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ParsData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WriteFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WriteFile.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +51,20 @@
       <recent name="" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="FIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FIO" />
+      <module name="Dz3_Exeption" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FIO" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,6 +74,18 @@
       <option name="presentableId" value="Default" />
       <updated>1683284568073</updated>
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1683290953287</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683290953287</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
